@@ -1,1 +1,4 @@
-# Object_detection1
+# Object_detection
+
+
+Object detection using OpenCv and resnet model
